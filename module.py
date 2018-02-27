@@ -1,1 +1,1 @@
-example module
+example module2
